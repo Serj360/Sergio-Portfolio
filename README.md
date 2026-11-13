@@ -3,6 +3,9 @@
 - [What is this place?](#what-is-this-place)
 - [What’s the reason for making this?](#whats-the-reason-for-making-this)
 - [Let’s Get Started](#-lets-get-started)
+- [Linux Projects](#linux-projects)
+- [Windows Projects](#windows-projects)
+- [Azure Administration Projects (Coming Soon)](#azure-administration-projects-coming-soon)
 
 # 🌱 FAQ / Common Questions
 Welcome, and thanks for stopping by! This README gives an overview of my work, projects, and documentation habits.
@@ -24,10 +27,14 @@ Welcome, and thanks for stopping by! This README gives an overview of my work, p
     - *“Home labs also let you safely experiment with systems and prepare for certifications“* ([stormagic.com](https://stormagic.com/company/blog/what-is-homelab/?utm_source=chatgpt.com)).
   
 # 🏁 Let’s Get Started
-# Linux Projects
+## Linux Projects
 - [Arch Linux Installation](https://www.notion.so/sergiomontoya360/Arch-Linux-Installation-29843cea6844809fa5c7cf00b12f2b10?source=copy_link)
 - [Harden Linux Mint Security](https://www.notion.so/sergiomontoya360/Harden-Linux-Mint-Security-29943cea6844809b8112cfc238e01cad?source=copy_link)
 - [Installing PowerShell on Linux Mint](https://www.notion.so/sergiomontoya360/Installing-PowerShell-on-Linux-Mint-2a443cea684480de8ffcc2e8301d60ab?source=copy_link)
 - [Linux Mint Installation](https://www.notion.so/sergiomontoya360/Linux-Mint-Installation-29943cea684480b3b86afb332712033a?source=copy_link)
-# Windows Projects
+## Windows Projects
 - [Setting Up A Domain Controller](https://www.notion.so/sergiomontoya360/Setting-Up-A-Domain-Controller-2bb43cea6844802faa42c7a0a5928585?source=copy_link)
+## Azure Administration Projects (Coming Soon)
+- Hub and Spoke Network with Secured Access
+- Automated Network Deployment with PowerShell and Bicep/Terraform
+- Network Monitoring and Incident Response Simulation
